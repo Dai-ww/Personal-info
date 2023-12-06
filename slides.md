@@ -44,7 +44,7 @@ Read more about [Slidev](https://sli.dev/guide/why)
 
 ---
 layout: image-right
-image: /w.jpeg
+image: /Personal-info/w.jpeg
 ---
 
 # Basic personal information
