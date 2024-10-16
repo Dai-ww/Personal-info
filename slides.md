@@ -3,7 +3,7 @@
 theme: seriph
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: https://source.unsplash.com/collection/94734566/1920x1080
+background: bg.jpeg
 # apply any windi css classes to the current slide
 class: 'text-center'
 # https://sli.dev/custom/highlighters.html
@@ -25,7 +25,7 @@ css: unocss
 
 # Welcome to My World
 
-使用 基于Web的幻灯片制作和演示工具Slidev 制作
+<!-- 使用 基于Web的幻灯片制作和演示工具Slidev 制作 -->
 
 Read more about [Slidev](https://sli.dev/guide/why)
 
@@ -52,10 +52,10 @@ image: /w.jpeg
 <br>
 
 - 📝 **Name** - 代文文
-- 🎨 **Age** - 23
-- 🎥 **Email** - 1070712313@qq.com
+- 🎨 **Age** - 24
+- 🎥 **Email** - daiwenwena@foxmail.com
 - 📤 **phone** - 15672405257
-- 🛠 **workExperience** - two years
+- 🛠 **workExperience** - three years
 
 <style>
 h1 {
@@ -80,7 +80,7 @@ image: https://source.unsplash.com/collection/94734566/1920x1080
 
 - 🎨 I’m interested in JavaScript
 - 🌱 Currently learning in REACT
-- 🧑‍💻 I’m looking to collaborate on Shanghai
+- 🧑‍💻 I’m looking to collaborate on WuHan
 
 ---
 
@@ -130,7 +130,7 @@ image: https://source.unsplash.com/collection/94734566/1920x1080
 
 <div class="bg-slate-200 w-3/4 p-4 rounded-md slidev-vclick-target slidev-vclick-current mt-10">
   <li>I am optimistic, sincere, adaptable and have good team spirit</li>
-  <li> 2 years of experience in web development. I think I have reached the level of a junior engineer. I hope to grow into an architect in the future</li>
+  <li> 3 years of experience in web development. I think I have reached the level of a junior engineer. I hope to grow into an architect in the future</li>
   <li> Will actively refactor code, code cleanliness</li>
   <li> Love technical books, recently looking at graphic http, css secrets, etc</li>
 </div>
